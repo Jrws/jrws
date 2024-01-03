@@ -1,0 +1,34 @@
+pre {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'EB Garamond';
+}
+
+.red {
+    color: red;
+}
+
+.orange {
+    color: #EC5800;
+}
+
+.yellow {
+    color: #FFBF00;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.purple {
+    color: purple;
+}
